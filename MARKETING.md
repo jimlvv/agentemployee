@@ -22,7 +22,11 @@ developers with a side-project idea, wanting their first paying customer.
    pre-selling before building, cold outreach for founders.
 5. **Solo founder operations**: AI agents for solo founders, automating a one-person business.
 
-### Backlog (top = next). Move items to "Published" when merged.
+### Backlog (top = next)
+
+The scheduled task never edits this file (so article PRs don't conflict). It skips any
+keyword already used in `content/blog/` frontmatter or in an open `seo/` PR. Jim edits the
+backlog and the Published list by hand.
 
 - validate a SaaS idea (with a worked example)
 - customer interview questions for startup ideas (Mom Test–style, with bad vs good examples)
